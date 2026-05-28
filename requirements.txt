@@ -1,1 +1,5 @@
-deepface
+Python 3.10
+DeepFace
+OpenCV
+TensorFlow
+NumPy
